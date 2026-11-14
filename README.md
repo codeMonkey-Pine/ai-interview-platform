@@ -1,3 +1,5 @@
+> **仓库说明**：本仓库是 [Snailclimb/interview-guide](https://github.com/Snailclimb/interview-guide)（AGPL-3.0）的二次开发版本。
+> 个人改动与进度见 [docs/MY-CHANGES.md](docs/MY-CHANGES.md)。
 <div align="center">
 
 **智能 AI 面试官平台** - 基于大语言模型的简历分析、模拟面试和 RAG 知识库系统
